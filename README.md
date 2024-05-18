@@ -22,7 +22,6 @@ git clone https://github.com/GarikHarutyunyan/js-hand-pose-training.git
 
 - `index.html`: The HTML file containing the interface and functionality.
 - `script.js`: The JavaScript file implementing the logic for hand pose recognition and training.
-- `style.css`: The CSS file styling the user interface.
 
 ## Requirements
 
@@ -33,7 +32,7 @@ git clone https://github.com/GarikHarutyunyan/js-hand-pose-training.git
 
 - TensorFlow.js: A JavaScript library for training and deploying machine learning models in the browser.
 - ml5.js: A friendly machine learning library for the web, built on top of TensorFlow.js.
-- HTML, CSS, and JavaScript: Standard web technologies for building user interfaces and implementing functionality.
+- HTML, and JavaScript: Standard web technologies for building user interfaces and implementing functionality.
 
 ## Credits
 
