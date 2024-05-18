@@ -1,6 +1,12 @@
-# HandPose Recognition with TensorFlow.js and ml5.js
+# Hand Pose Training with TensorFlow.js and ml5.js
 
 This project demonstrates a simple example of hand pose recognition using TensorFlow.js and ml5.js. The application utilizes TensorFlow's HandPose model to detect hand movements through the device's camera. Users can train the model to recognize open and closed hand poses using the KNN classifier algorithm from ml5.js.
+
+---
+
+🚀 **Hosted Application:** [Hand Pose Training](https://garikharutyunyan.github.io/js-hand-pose-training/)
+
+---
 
 ## Usage
 
