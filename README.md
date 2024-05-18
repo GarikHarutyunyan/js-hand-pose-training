@@ -24,6 +24,10 @@ git clone https://github.com/GarikHarutyunyan/js-hand-pose-training.git
 
 6. Hold your hand in a pose, and the system will predict whether your hand is open or closed based on the trained model.
 
+## Compatibility
+
+- This application can be run on both desktop and mobile devices with a camera.
+
 ## Files
 
 - `index.html`: The HTML file containing the interface and functionality.
